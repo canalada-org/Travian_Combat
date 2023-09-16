@@ -1,0 +1,190 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/EN/Simulator_Translation'
+# Language: 'EN'
+
+# "Battle simulation created with "
+189676128="Battle simulation created with "
+
+# "Agressor: "
+212736832="Agressor: "
+
+# "Population: "
+232406496="Population: "
+
+# "Arrival time: -"
+68139725="Arrival time: -"
+
+# "No troops"
+129569635="No troops"
+
+# "Defender"
+197938786="Defender"
+
+# "Coordinates - X:"
+83762042="Coordinates - X:"
+
+# "Palace: "
+136813984="Palace: "
+
+# "Wall: "
+98054080="Wall: "
+
+# "Roman reinforcement"
+155711252="Roman reinforcement"
+
+# "Galic reinforcement"
+229016068="Galic reinforcement"
+
+# "Teuton reinforcement"
+216994532="Teuton reinforcement"
+
+# "Defender troops dead: "
+24608544="Defender troops dead: "
+
+# "Material lost by defenders: "
+2493376="Material lost by defenders: "
+
+# "Soldiers killed in  "
+138279984="Soldiers killed in "
+
+# "this miserable battle"
+173560629="this miserable battle"
+
+# "Arrival time: "
+239139744="Arrival time: "
+
+# " Losses: "
+111797232=" Losses: "
+
+# "  Level: "
+46964112="  Level: "
+
+# ": "
+960=": "
+
+# "Agressor troops dead: "
+26675808="Agressor troops dead: "
+
+# "Wood: "
+98981824="Wood: "
+
+# "Clay: "
+77761728="Clay: "
+
+# "Iron: "
+84500928="Iron: "
+
+# "Crop: "
+78209984="Crop: "
+
+# "Roman defender troops dead: "
+158787856="Roman defender troops dead: "
+
+# "Galic defender troops dead: "
+134588160="Galic defender troops dead: "
+
+# "Teuton defender troops dead: "
+51360656="Teuton defender troops dead: "
+
+# "this bloody, vile and cruel battle"
+211395349="this bloody, vile and cruel battle"
+
+# "Travian Battle Simulator"
+238672034="Travian Battle Simulator"
+
+# "Made by Andres_age and released under the GPL"
+168002716="Made by Andres_age and released under the GPL"
+
+# "Return"
+93109390="Return"
+
+# "this joking battle"
+260553925="this joking battle"
+
+# "this little battle"
+2887205="this little battle"
+
+# "this great battle"
+1766165="this great battle"
+
+# "this bloody battle "
+20864528="this bloody battle "
+
+# "this battle made by selfish and vain reasons"
+39158499="this battle made by selfish and vain reasons"
+
+# "this slaugther"
+129749314="this slaugther"
+
+# "this battle that has left thousands of destroyed families"
+3675939="this battle that has left thousands of destroyed families"
+
+# "this shameful day in the human history, where thousands of men killed each other for the selfish desires of a few mad governors"
+244197923="this shameful day in the human history, where thousands of men killed each other for the selfish desires of a few mad governors"
+
+# "the greatest battle that Travian villagers remember"
+122191378="the greatest battle that Travian villagers remember"
+
+
+# "Confirmation"
+228516702="Confirmation"
+
+# "Report correctly created in "
+247769760="Report correctly created in "
+
+# "Material lost by both agressor and defender: "
+216355872="Material lost by both agressor and defender: "
+
+# "Material lost by agressor: "
+149035328="Material lost by agressor: "
+
+# "Material lost by Roman reinforcement: "
+120847968="Material lost by Roman reinforcement: "
+
+# "Material lost by Teuton reinforcement: "
+190114080="Material lost by Teuton reinforcement: "
+
+# "Material lost by Galic reinforcement: "
+113699456="Material lost by Galic reinforcement: "
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Soldiers and animals killed in "
+78731456="Soldiers and animals killed in "
+
+# "Wild animals guarding the oases"
+81157859="Wild animals guarding the oases"
+
+# "Poor baby animals cruelly killed: "
+90022864="Poor baby animals cruelly killed: "
+
+# "Error creating report"
+90346516="Error creating report"
+
+# "Type of attack: "
+215472160="Type of attack: "
+
+# "Note"
+349861="Note"
+
+# ": In the making of this report, no kitten was harmed."
+32209342=": In the making of this report, no kitten was harmed."
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+
+# "Attacker crop consumption"
+248593102="Attacker crop consumption"
+
+# "Defender crop consumption"
+13887598="Defender crop consumption"
+

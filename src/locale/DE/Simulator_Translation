@@ -1,0 +1,189 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/DE/Simulator_Translation'
+# Language: 'DE'
+
+# "Battle simulation created with "
+189676128="Kampf Simulation erstellt mit "
+
+# "Agressor: "
+212736832="Agreifer: "
+
+# "Population: "
+232406496="Einwohner: "
+
+# "Arrival time: -"
+68139725="Ankunfts-Zeit: -"
+
+# "No troops"
+129569635="Keine Truppen"
+
+# "Defender"
+197938786="Verteidiger"
+
+# "Coordinates - X:"
+83762042="Koordinaten - X:"
+
+# "Palace: "
+136813984="Palast: "
+
+# "Wall: "
+98054080="Mauer: "
+
+# "Roman reinforcement"
+155711252="Römische Unterstützung"
+
+# "Galic reinforcement"
+229016068="Gällische Unterstützung"
+
+# "Teuton reinforcement"
+216994532="Germanische Unterstützung"
+
+# "Defender troops dead: "
+24608544="Verteidigende Truppen gestorben: "
+
+# "Material lost by defenders: "
+2493376="Rohstoffe durch Verteidiger verloren: "
+
+# "Soldiers killed in  "
+138279984="Soldaten getötet in "
+
+# "this miserable battle"
+173560629="diesem miserablen Kampf"
+
+# "Arrival time: "
+239139744="Ankunfts-Zeit: "
+
+# " Losses: "
+111797232=" Verluste: "
+
+# "  Level: "
+46964112="  Stufe: "
+
+# ": "
+960=": "
+
+# "Agressor troops dead: "
+26675808="Angreifende Truppen gestorben: "
+
+# "Wood: "
+98981824="Holz: "
+
+# "Clay: "
+77761728="Lehm: "
+
+# "Iron: "
+84500928="Eisen: "
+
+# "Crop: "
+78209984="Getreide: "
+
+# "Roman defender troops dead: "
+158787856="Römische Verteidigungstruppen tot: "
+
+# "Galic defender troops dead: "
+134588160="Gällische Verteidigungstruppen tot: "
+
+# "Teuton defender troops dead: "
+51360656="Germanische Verteidigungstruppen tot: "
+
+# "this bloody, vile and cruel battle"
+211395349="dieser blutigen, abscheulichen und grausamen Schlacht "
+
+# "Travian Battle Simulator"
+238672034="Travian Kampf Simulator"
+
+# "Made by Andres_age and released under the GPL"
+168002716="Erstellt von Andres_age und unter der GPL veröffentlicht"
+
+# "Return"
+93109390="Zurück"
+
+# "this joking battle"
+260553925="dieser lächerlichen Schlacht"
+
+# "this little battle"
+2887205="diesem kleinen Kampf"
+
+# "this great battle"
+1766165="diesem grossen Kampf"
+
+# "this bloody battle "
+20864528="dieser blutigen Schlacht "
+
+# "this battle made by selfish and vain reasons"
+39158499="diesem unnützen Kampf"
+
+# "this slaugther"
+129749314="diesem Schlachtfest"
+
+# "this battle that has left thousands of destroyed families"
+3675939="dieser Schlacht, die tausende zerstörte Familien zurücklässt"
+
+# "this shameful day in the human history, where thousands of men killed each other for the selfish desires of a few mad governors"
+244197923="diesem schamvollen Tag in der menschlichen Geschichte, an dem tausende von Männern sich, für die eigennützigen Verlangen von ein paar verrückten Herrschern, gegenseitig umbrachten"
+
+# "the greatest battle that Travian villagers remember"
+122191378="der grössten Schlacht an die sich Travians Volk erinnert"
+
+
+# "Confirmation"
+228516702="Bestätigung"
+
+# "Report correctly created in "
+247769760="Bericht erfolgreich erstellt in "
+
+# "Material lost by both agressor and defender: "
+216355872="Rohstoffe durch Angreifer und Verteidiger verloren: "
+
+# "Material lost by agressor: "
+149035328="Rohstoffe durch Angreifer verloren: "
+
+# "Material lost by Roman reinforcement: "
+120847968="Rohstoffe durch römische Unterstützung verloren: "
+
+# "Material lost by Teuton reinforcement: "
+190114080="Rohstoffe durch germanische Unterstützung verloren: "
+
+# "Material lost by Galic reinforcement: "
+113699456="Rohstoffe durch gällische Unterstützung verloren: "
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Soldiers and animals killed in "
+78731456="Soldaten und Tiere getötet in "
+
+# "Wild animals guarding the oases"
+81157859="Wilde Tiere die die Oasen bewachen"
+
+# "Poor baby animals cruelly killed: "
+90022864="Arme Babytiere grausam getötet: "
+
+# "Error creating report"
+90346516="Fehler beim Erstellen des Berichts"
+
+# "Type of attack: "
+215472160="Angriffstyp: "
+
+# "Note"
+349861="Notitz"
+
+# ": In the making of this report, no kitten was harmed."
+32209342=": Beim Erstellen dieses Berichts wurde kein Kätzchen verletzt."
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+
+# "Attacker crop consumption"
+248593102="Getreideverbrauch des Angreifers" 
+
+# "Defender crop consumption"
+13887598="Getreideverbrauch des Verteidigers"

@@ -1,0 +1,193 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/IT/Simulator_Translation'
+# Language: 'IT'
+# Special thanks to Gas for helping in the translation
+
+# "Battle simulation created with "
+189676128="Simulazione di Battaglia creata con "
+
+# "Agressor: "
+212736832="Attaccante: "
+
+# "coordinates - X:"
+83368826="Coordinate - X:"
+
+# "Population: "
+232406496="Popolazione: "
+
+# "Arrival time: -"
+68139725="Tempo di arrivo: -"
+
+# "No troops"
+129569635="Nessuna truppa"
+
+# "Defender"
+197938786="Difensore"
+
+# "Coordinates - X:"
+83762042="Coordinate - X:"
+
+# "Palace: "
+136813984="Castello / Residence: "
+
+# "Wall: "
+98054080="Murata: "
+
+# "Roman reinforcement"
+155711252="Rinforzi Romani"
+
+# "Galic reinforcement"
+229016068="Rinforzi Galli"
+
+# "Teuton reinforcement"
+216994532="Rinforzi Teutoni"
+
+# "Defender troops dead: "
+24608544="Unità totali perse dal difensore: "
+
+# "Material lost by defenders: "
+2493376="Risorse totali perse dal difensore: "
+
+# "Arrival time: "
+239139744="Tempo di arrivo: "
+
+# " Losses: "
+111797232=" Perdite: "
+
+# "  Level: "
+46964112="  Livello: "
+
+# ": "
+960=": "
+
+# "Agressor troops dead: "
+26675808="Unità totali perse dall'attaccante: "
+
+# "Material lost by agressor: "
+149035328="Risorse totali perse dall'attaccante: "
+
+# "Wood: "
+98981824="Legno: "
+
+# "Clay: "
+77761728="Argilla: "
+
+# "Iron: "
+84500928="Ferro: "
+
+# "Crop: "
+78209984="Grano: "
+
+# "Roman defender troops dead: "
+158787856="Unità totali perse dal difensore Romano: "
+
+# "Material lost by Roman reinforcement: "
+120847968="Risorse totali perse dal difensore Romano: "
+
+# "Galic defender troops dead: "
+134588160="Unità totali perse dal difensore Gallo: "
+
+# "Material lost by Galic reinforcement: "
+113699456="Risorse totali perse dal difensore Gallo: "
+
+# "Teuton defender troops dead: "
+51360656="Unità totali perse dal difensore Teutone: "
+
+# "Material lost by Teuton reinforcement: "
+190114080="Risorse totali perse dal difensore Teutone: "
+
+# "Return"
+93109390="OK"
+
+# "Soldiers killed in  "
+138279984="Soldati morti in "
+
+# "this miserable battle"
+173560629="questa miserabile battaglia"
+
+# "this bloody, vile and cruel battle"
+211395349="questa sanguinosa, vile e perversa battaglia"
+
+# "this joking battle"
+260553925="questa farsa"
+
+# "this little battle"
+2887205="questa scaramuccia"
+
+# "this great battle"
+1766165="questa grande tenzone"
+
+# "this bloody battle "
+20864528="questa sanguinosa battaglia"
+
+# "this battle made by selfish and vain reasons"
+39158499="questa battaglia fatta per inutili scopi egocentrici"
+
+# "this slaugther"
+129749314="questa carneficina"
+
+# "this battle that has left thousands of destroyed families"
+3675939="questa battaglia che ha massacrato migliaia di famiglie"
+
+# "this shameful day in the human history, where thousands of men killed each other for the selfish desires of a few mad governors"
+244197923="questo giorno pieno di disgrazia nella storia dell'umanita, nel quale migliaia di uomini si sono uccisi a vicenda a causa dell'egoismo di pochi governatori pazzi"
+
+# "the greatest battle that Travian villagers remember"
+122191378="una delle migliori battaglie che gli utenti di Travian mai ricorderanno"
+
+# "Material lost by both agressor and defender: "
+216355872="Risorse totali perse dal difensore e dall'attaccante: "
+
+# "Confirmation"
+228516702="Salvataggio riuscito"
+
+# "Report correctly created in "
+247769760="Il report è stato salvato con successo nel file "
+
+# "Travian Battle Simulator"
+238672034="Simulatore di Combattimento di Travian"
+
+# "Made by Andres_age and released under the GPL"
+168002716="Creato da Andres_age sotto licenza GPL, e tradotto in ITA da Gas e Lucas_Malor."
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Soldiers and animals killed in "
+78731456="SOldati e animali uccisi in "
+
+# "Wild animals guarding the oases"
+81157859="Animali selvaggi che proteggono l'oasi"
+
+# "Poor baby animals cruelly killed: "
+90022864="Poveri cuccioli uccisi crudelmente: "
+
+# "Error creating report"
+90346516="Errore nella creazione del report"
+
+# "Type of attack: "
+215472160="Tipo di attacco: "
+
+# "Note"
+349861="Nota"
+
+# ": In the making of this report, no kitten was harmed."
+32209342=": Nella creazione di questo report, nessun animale è stato maltrattato."
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+
+# "Attacker crop consumption"
+248593102="Consumo di grano del attaccante"
+
+# "Defender crop consumption"
+13887598="Consumo di grano del difensore"
+

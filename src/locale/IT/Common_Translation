@@ -1,0 +1,250 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/IT/Common_Translation'
+# Language: 'IT'
+# Special thanks to Gas for helping in the translation
+
+# "Romans"
+93730899="Romani"
+
+# "Gauls"
+5082163="Galli"
+
+# "Teutons"
+181188099="Teutoni"
+
+# "Agressor"
+244100626="Attaccante"
+
+# "Level"
+5426364="Livello"
+
+# "Troops"
+96036467="Truppe"
+
+# "Population"
+204331566="Pop. giocat."
+
+# "Defender"
+197938786="Difensore"
+
+# "Losses"
+87468483="Perdite"
+
+# "Material lost"
+74317316="Risorse perse"
+
+# "Agressor town"
+28277822="Vill. attaccante"
+
+# "Defender town"
+117142078="Vill. difensore"
+
+# "Target"
+94932420="Coordinate dell'obiettivo"
+
+# "X:"
+1466="X:"
+
+# "Y:"
+1482="Y:"
+
+# "Time:"
+5964682="Tempo:"
+
+# "Attack"
+76261275="Attacco"
+
+# "Raid"
+362484="Raid"
+
+# "SA:"
+22346="AV:"
+
+# "Artifact"
+162513700="Artefatti"
+
+# "Tourn. square"
+214182357="Pz. di torneo"
+
+# "TS:" (Tournament Square)
+22890="PzT:"
+
+# "Roman wall"
+134365724="Mura Romani"
+
+# "Teuton wall"
+106765468="Murata Teutoni"
+
+# "Galic wall"
+257101836="Palizzata Galli"
+
+# "Palace"
+90711957="Cast. / Resid."
+
+# "Catapult"
+145260708="Catapulta"
+
+# "Settler"
+164344466="Decurione"
+
+# "Legionnaire"
+103210629="Legionario"
+
+# "Praetorian"
+213120782="Pretoriano"
+
+# "Imperian"
+74222206="Imperiano"
+
+# "Legati"
+86759593="Legionario a cavallo"
+
+# "Imperatoris"
+148582339="Imperiano a cavallo"
+
+# "Caesaris"
+130649491="Cavalleria Romana"
+
+# "Battering ram"
+146986173="Ariete da sfondamento"
+
+# "Senator"
+163875634="Senatore"
+
+# "Phalanx"
+115877896="Lanciere"
+
+# "Swordsman"
+109828510="Combattente con spada"
+
+# "Pathfinder"
+248193634="Esploratore"
+
+# "Theutates Thunder"
+2909010="Cavalleria Gallica"
+
+# "Druidrider"
+263996274="Cavalleria di difesa"
+
+# "Haeduan"
+242989886="Cavalleria avanzata"
+
+# "Ram"
+22653="Ariete"
+
+# "Trebuchet"
+194757956="Catapulta"
+
+# "Chieftain"
+264105502="Capo tribù"
+
+# "Clubswinger"
+177632850="Combattente"
+
+# "Spearfighter"
+156975682="Lanciere"
+
+# "Axefighter"
+217674866="Combattente con ascia"
+
+# "Scout"
+5875396="Esploratore"
+
+# "Paladin"
+109214382="Paladino"
+
+# "Teuton Knight"
+266881956="Cavalleria Teutonica"
+
+# "Chief"
+4845494="Comandante"
+
+
+# "January"
+8763593="Gennaio"
+
+# "February"
+194624601="Febbraio"
+
+# "March"
+5474456="Marzo"
+
+# "April"
+4749564="Aprile"
+
+# "May"
+21385="Maggio"
+
+# "June"
+334917="Giugno"
+
+# "July"
+334905="Luglio"
+
+# "August"
+76278948="Agosto"
+
+# "September"
+128737538="Settembre"
+
+# "October"
+95115410="Ottobre"
+
+# "November"
+114048402="Novembre"
+
+# "December"
+194788450="Dicembre"
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Rat"
+22660="Topo"
+
+# "Spider"
+94829250="Ragno"
+
+# "Serpent"
+164195332="Serpente"
+
+# "Bat"
+18564="Pipistrello"
+
+# "Wild boar"
+40299394="Cinghiale"
+
+# "Wolf"
+386598="Lupo"
+
+# "Bear"
+297858="Orso"
+
+# "Crocodile"
+94758581="Coccodrillo"
+
+# "Tiger"
+5963202="Tigre"
+
+# "Elephant"
+46589076="Elefante"
+
+# "Travian v2"
+217300754="Travian v2"
+
+# "Travian v3"
+217300755="Travian v3"
+
+# "V2"
+1426="V2"
+
+# "V3"
+1427="V3"
+
+# "V2\/V3"
+5854355="V2\/V3"

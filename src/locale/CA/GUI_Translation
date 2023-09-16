@@ -1,0 +1,191 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/CA/GUI_Translation'
+# Language: 'CA'
+
+# Traduït per Ildure
+
+
+# "Travian Combat Simulator - TC"
+45840931="Simulador de Combat de Travian - TC "
+
+# "Made by Andres_age under the GPL"
+35228428="Realitzat per Andres_age sota llicència GPL"
+
+# "&File"
+2805797="&Arxiu"
+
+# "&Report"
+193754804="Informe"
+
+# "&Calculator"
+178787138="&Calculadora"
+
+# "Hel&p"
+5160656="A&juda"
+
+# "&Exit"
+2805508="&Sortir"
+
+# "&Instructions"
+11497443="&Instruccions"
+
+# "&About"
+44537540="&Sobre..."
+
+# "&Tools"
+45835827="&Eines"
+
+# "Resources calculator - TC"
+99080355="Calculadora de recursos - TC "
+
+# "Stored resources"
+48192099="Recursos actuals"
+
+# "Wanted resources"
+81733971="Recursos necessaris"
+
+# "Production"
+197121806="Producció"
+
+# "Enough resources in "
+73850416="Construcció disponible en "
+
+# "Impossible or too slow"
+97335911="Impossible o massa lent"
+
+# "You can already build"
+171452820="Ja es pot construir"
+
+# "Available: "
+36823232="Disponible: "
+
+# "Today at "
+176894768="Avui a les "
+
+# "Remainings"
+134318291="Sobres"
+
+# "report.txt"
+110286724="informe.txt"
+
+# "Clean"
+4860798="Netejar"
+
+# "Clean production"
+62485950="Netejar producció"
+
+# "Production to 1000"
+113531120="Producció a 1000"
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "&Options"
+108726499="&Opcions"
+
+# "&Nature (v3)\/Troops"
+148934483="&Natura (v3)\/Tropes"
+
+# "(Plain Text)"
+42854249="(&Text)"
+
+# "(BBCode)"
+107632825="(&BBCode)"
+
+# "(HTML)"
+47026665="(&HTML)"
+
+# "report_BBCode.txt"
+207485428="informe_BBCode.txt"
+
+# "report_HTML.txt"
+7905492="informe_HTML.txt"
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+# "Resource and Culture Calculator - TC "
+62998624="Calculadora de recursos i cultura - TC "
+
+# "You have already enough culture"
+247659781="Ja tens suficient cultura"
+
+# "Resources"
+174903555="Recursos"
+
+# "Culture"
+180600005="Cultura"
+
+# "Data"
+305313="Dades"
+
+# "Town Halls per level"
+29880748="Ajuntaments per nivell"
+
+# "Number of villages"
+259769027="Nombre de viles"
+
+# "Village"
+218310533="Vila"
+
+# "CP needed"
+122417812="PC necessaris"
+
+# "Actual CP"
+196584224="PC acumulats"
+
+# "Daily CP production"
+152955918="PC per dia"
+
+# "Error: Invalid data"
+119147265="Error: Dades no vàlides"
+
+# "Quicksave"
+262324341="&Guardat ràpid"
+
+# "Quickload"
+262311364="&Càrrega Ràpida"
+
+# "Error: Saved file not found. Make sure to save before loading!"
+198278401="Error: Arxiu no encontrat. Assegura't de guardar abans de carregar!"
+
+# "Error: Saved file is corrupt or you are using another version of Travian Combat that is not compatible with the previous one. "
+94357024="Error: El arxiu està corrupt o estàs fent servir una versió diferent de Travian Combat que no és compatible amb l'anterior. "
+
+# "The version of Travian Combat you are using is "
+27156384="La versió de Travian Combat que estas usant es la "
+
+# " and the saved file was created with "
+136262672=" i l'arxiu guardat es va crear amb la "
+
+# "Set Template"
+266030341="Posar com a plantilla"
+
+# ".sdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Simulator Data File"
+219558=".sdf"
+
+# ".rdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Resources and culture Data File"
+219302=".rdf"
+
+# ".cdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Coordinator Data File"
+215462=".cdf"
+
+# "config\/Quicksave"
+# DONT CHANGE THIS LINE!!
+44201525="config\/Quicksave"
+
+# "config\/Template"
+# DONT CHANGE THIS LINE!!
+9905781="config\/Template"

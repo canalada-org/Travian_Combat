@@ -1,0 +1,248 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/IT/BBCode_HTML'
+# Language: 'IT'
+
+######################################
+# Created for Travian Combat v.089
+# This file doesn't need translation nor modification in the localization.
+# However you should change the link if needed
+#  and maybe the icons. ONLY if needed.
+######################################
+
+# Link to the webpage of Travian Combat
+# "Link_TC"
+50664659="http://forum.travian.it/thread.php?threadid=9766"
+
+# Image links for Roman Units:
+# "Icon1.gif"
+101974614="http://www.travian.it/img/a/u/1.gif"
+
+# "Icon2.gif"
+102040150="http://www.travian.it/img/a/u/2.gif"
+
+# "Icon3.gif"
+102105686="http://www.travian.it/img/a/u/3.gif"
+
+# "Icon4.gif"
+102171222="http://www.travian.it/img/a/u/4.gif"
+
+# "Icon5.gif"
+102236758="http://www.travian.it/img/a/u/5.gif"
+
+# "Icon6.gif"
+102302294="http://www.travian.it/img/a/u/6.gif"
+
+# "Icon7.gif"
+102367830="http://www.travian.it/img/a/u/7.gif"
+
+# "Icon8.gif"
+102433366="http://www.travian.it/img/a/u/8.gif"
+
+# "Icon9.gif"
+102498902="http://www.travian.it/img/a/u/9.gif"
+
+# "Icon10.gif"
+21477270="http://www.travian.it/img/a/u/10.gif"
+
+# Image links for Teuton Units:
+# "Icon11.gif"
+21542806="http://www.travian.it/img/a/u/11.gif"
+
+# "Icon12.gif"
+21084054="http://www.travian.it/img/a/u/12.gif"
+
+# "Icon13.gif"
+21149590="http://www.travian.it/img/a/u/13.gif"
+
+# "Icon14.gif"
+21215126="http://www.travian.it/img/a/u/14.gif"
+
+# "Icon15.gif"
+21280662="http://www.travian.it/img/a/u/15.gif"
+
+# "Icon16.gif"
+21870486="http://www.travian.it/img/a/u/16.gif"
+
+# "Icon17.gif"
+21936022="http://www.travian.it/img/a/u/17.gif"
+
+# "Icon18.gif"
+22001558="http://www.travian.it/img/a/u/18.gif"
+
+# "Icon19.gif"
+22067094="http://www.travian.it/img/a/u/19.gif"
+
+# "Icon20.gif"
+22525846="http://www.travian.it/img/a/u/20.gif"
+
+# Image links for Galic Units:
+# "Icon21.gif"
+22591382="http://www.travian.it/img/a/u/21.gif"
+
+# "Icon22.gif"
+22132630="http://www.travian.it/img/a/u/22.gif"
+
+# "Icon23.gif"
+22198166="http://www.travian.it/img/a/u/23.gif"
+
+# "Icon24.gif"
+22263702="http://www.travian.it/img/a/u/24.gif"
+
+# "Icon25.gif"
+22329238="http://www.travian.it/img/a/u/25.gif"
+
+# "Icon26.gif"
+22919062="http://www.travian.it/img/a/u/26.gif"
+
+# "Icon27.gif"
+22984598="http://www.travian.it/img/a/u/27.gif"
+
+# "Icon28.gif"
+23050134="http://www.travian.it/img/a/u/28.gif"
+
+# "Icon29.gif"
+23115670="http://www.travian.it/img/a/u/29.gif"
+
+# "Icon30.gif"
+23574422="http://www.travian.it/img/a/u/30.gif"
+
+# "Icon31.gif"
+23639958="http://s1.travian.com/img/un/u/31.gif"
+
+# "Icon32.gif"
+23181206="http://s1.travian.com/img/un/u/32.gif"
+
+# "Icon33.gif"
+23246742="http://s1.travian.com/img/un/u/33.gif"
+
+# "Icon34.gif"
+23312278="http://s1.travian.com/img/un/u/34.gif"
+
+# "Icon35.gif"
+23377814="http://s1.travian.com/img/un/u/35.gif"
+
+# "Icon36.gif"
+23967638="http://s1.travian.com/img/un/u/36.gif"
+
+# "Icon37.gif"
+24033174="http://s1.travian.com/img/un/u/37.gif"
+
+# "Icon38.gif"
+24098710="http://s1.travian.com/img/un/u/38.gif"
+
+# "Icon39.gif"
+24164246="http://s1.travian.com/img/un/u/39.gif"
+
+# "Icon40.gif"
+24622998="http://s1.travian.com/img/un/u/40.gif"
+
+# Image links for resources
+# "ResourceIcon1.gif"
+180558838="http://s1.travian.com/img/un/r/1.gif"
+
+# "ResourceIcon2.gif"
+180755446="http://s1.travian.com/img/un/r/2.gif"
+
+# "ResourceIcon3.gif"
+180689910="http://s1.travian.com/img/un/r/3.gif"
+
+# "ResourceIcon4.gif"
+180886518="http://s1.travian.com/img/un/r/4.gif"
+
+# "CropPerHour.gif"
+9683318="http://s2.travian.net/img/es/r/5.gif"
+
+###################
+# This shouldn't be change:#
+###################
+
+# ">"
+62=">"
+
+# "]"
+93="]"
+
+# "[b]"
+24957="[b]"
+
+# "[\/b]"
+386429="[\/b]"
+
+# "<b>"
+16990="<b>"
+
+# "<\/b>"
+259422="<\/b>"
+
+# "[u]"
+25261="[u]"
+
+# "[\/u]"
+386733="[\/u]"
+
+# "<u>"
+17294="<u>"
+
+# "<\/u>"
+259726="<\/u>"
+
+# "[i]"
+25069="[i]"
+
+# "[\/i]"
+386541="[\/i]"
+
+# "<i>"
+17102="<i>"
+
+# "<\/i>"
+259534="<\/i>"
+
+# "[img]"
+6423501="[img]"
+
+# "[\/img]"
+98960333="[\/img]"
+
+# "<img src="
+60287853="<img src="
+
+# "[url="
+6473981="[url="
+
+# "[\/url]"
+99010845="[\/url]"
+
+# "<a href="
+57642941="<a href="
+
+# "<\/a>"
+259406="<\/a>"
+
+# "[size="
+103420045="[size="
+
+# "[\/size]"
+241832189="[\/size]"
+
+# "<font size="
+104654557="<font size="
+
+# "<\/font>"
+257779022="<\/font>"
+
+# "[color="
+27670077="[color="
+
+# "[\/color]"
+94778269="[\/color]"
+
+# "<font color="
+46748477="<font color="
+
+# "<br/>"
+272734="<br\/>"
+

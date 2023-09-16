@@ -1,0 +1,194 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/CA/Simulator_Translation'
+# Language: 'CA'
+
+# Traduït per Ildure
+
+# "Battle simulation created with "
+189676128="Simulació de batalla creada amb el "
+
+# "Agressor: "
+212736832="Agressor: "
+
+# "coordinates - X:"
+83368826="Coordenades - X:"
+
+# "Population: "
+232406496="Habitants: "
+
+# "Arrival time: -"
+68139725="Temps d'arribada: -"
+
+# "No troops"
+129569635="Sense unitats militars"
+
+# "Defender"
+197938786="Defensor"
+
+# "Coordinates - X:"
+83762042="Coordenades - X:"
+
+# "Palace: "
+136813984="Palau: "
+
+# "Wall: "
+98054080="Muralla: "
+
+# "Roman reinforcement"
+155711252="Suport Romà"
+
+# "Galic reinforcement"
+229016068="Suport Gal"
+
+# "Teuton reinforcement"
+216994532="Suport Germà"
+
+# "Defender troops dead: "
+24608544="Soldats defensore morts: "
+
+# "Material lost by defenders: "
+2493376="Pèrdues materials dels defensors: "
+
+# "Arrival time: "
+239139744="Hora d'arribada: "
+
+# " Losses: "
+111797232=" Pèrdues: "
+
+# "  Level: "
+46964112="  Nivell: "
+
+# ": "
+960=": "
+
+# "Agressor troops dead: "
+26675808="Soldats agressors morts: "
+
+# "Material lost by agressor: "
+149035328="Total de matèries primes perdudes per l'agressor: "
+
+# "Wood: "
+98981824="Fusta: "
+
+# "Clay: "
+77761728="Fang: "
+
+# "Iron: "
+84500928="Ferro: "
+
+# "Crop: "
+78209984="Cereal: "
+
+# "Roman defender troops dead: "
+158787856="Defensors romans morts: "
+
+# "Material lost by Roman reinforcement: "
+120847968="Total de matèries primes perdudes pel defensor romà: "
+
+# "Galic defender troops dead: "
+134588160="Defensors gals morts: "
+
+# "Material lost by Galic reinforcement: "
+113699456="Total de matèries primes perdudes pel defensor gal: "
+
+# "Teuton defender troops dead: "
+51360656="Defensors germans morts: "
+
+# "Material lost by Teuton reinforcement: "
+190114080="Total de matèries primes perdudes pel defensor germà: "
+
+# "Travian Battle Simulator"
+238672034="Simulador de Batalles de Travian"
+
+# "Made by Andres_age and released under the GPL"
+168002716="Realitzat per Andres_age i alliberat sota llicència GPL"
+
+# "Return"
+93109390="Tornar"
+
+# "Soldiers killed in  "
+138279984="Total de soldats morts en ambdós bàndols en "
+
+# "this bloody, vile and cruel battle"
+211395349="aquesta sanguinària, vil i cruel batalla"
+
+# "this miserable battle"
+173560629="aquesta cutresa de batalla"
+
+# "this joking battle"
+260553925="aquesta batalla de riure"
+
+# "this little battle"
+2887205="aquesta batalleta"
+
+# "this great battle"
+1766165="aquest troç de batalla"
+
+# "this bloody battle "
+20864528="aquesta batalla sanguinària "
+
+# "this battle made by selfish and vain reasons"
+39158499="aquesta batalla motivada per motius egoistes i megalòmans"
+
+# "this slaugther"
+129749314="aquesta carniceria"
+
+# "this battle that has left thousands of destroyed families"
+3675939="aquesta batalla que ha deixat milers de famílies destrossades"
+
+# "this shameful day in the human history, where thousands of men killed each other for the selfish desires of a few mad governors"
+244197923="aquest vergonyós dia per a la humanitat, on milers d'homes s'han matat mutuament pels desitjos d'un par de bojos gobernants"
+
+# "the greatest battle that Travian villagers remember"
+122191378="la major batalla que els vells viletans de Travian recorden"
+
+# "Material lost by both agressor and defender: "
+216355872="Total de matèries primes perdudes per ambdós bàndols en aquesta batalla: "
+
+# "Confirmation"
+228516702="Confirmació"
+
+# "Report correctly created in "
+247769760="Informe creat correctament en "
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Soldiers and animals killed in "
+78731456="Soldats i animals morts en "
+
+# "Wild animals guarding the oases"
+81157859="Animals guardant l'oasi"
+
+# "Poor baby animals cruelly killed: "
+90022864="Cadells cruelment assassinats: "
+
+# "Error creating report"
+90346516="Error creant l'informe"
+
+# "Type of attack: "
+215472160="Tipus d'atac: "
+
+# "Note"
+349861="Nota"
+
+# ": In the making of this report, no kitten was harmed."
+32209342=": En la realització d'aquest informe, cap animal ha estat ferit."
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+
+# "Attacker crop consumption"
+248593102="Consum de cereal de l'agressor"
+
+# "Defender crop consumption"
+13887598="Consum de cereal del defensor"
+

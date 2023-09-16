@@ -1,0 +1,192 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/ES/Simulator_Translation'
+# Language: 'ES'
+
+# "Battle simulation created with "
+189676128="Simulación de batalla creada con el "
+
+# "Agressor: "
+212736832="Agresor: "
+
+# "coordinates - X:"
+83368826="Coordenadas - X:"
+
+# "Population: "
+232406496="Habitantes: "
+
+# "Arrival time: -"
+68139725="Tiempo de llegada: -"
+
+# "No troops"
+129569635="Sin unidades militares"
+
+# "Defender"
+197938786="Defensor"
+
+# "Coordinates - X:"
+83762042="Coordenadas - X:"
+
+# "Palace: "
+136813984="Palacio: "
+
+# "Wall: "
+98054080="Muralla: "
+
+# "Roman reinforcement"
+155711252="Apoyo Romano"
+
+# "Galic reinforcement"
+229016068="Apoyo Galo"
+
+# "Teuton reinforcement"
+216994532="Apoyo Germano"
+
+# "Defender troops dead: "
+24608544="Soldados defensores muertos:: "
+
+# "Material lost by defenders: "
+2493376="Perdidas materiales de los defensores: "
+
+# "Arrival time: "
+239139744="Hora de llegada: "
+
+# " Losses: "
+111797232=" Pérdidas: "
+
+# "  Level: "
+46964112="  Nivel: "
+
+# ": "
+960=": "
+
+# "Agressor troops dead: "
+26675808="Soldados agresores muertos: "
+
+# "Material lost by agressor: "
+149035328="Total de materias primas perdidas por el agresor: "
+
+# "Wood: "
+98981824="Madera: "
+
+# "Clay: "
+77761728="Barro: "
+
+# "Iron: "
+84500928="Hierro: "
+
+# "Crop: "
+78209984="Cereal: "
+
+# "Roman defender troops dead: "
+158787856="Defensores romanos muertos: "
+
+# "Material lost by Roman reinforcement: "
+120847968="Total materias primas perdidas por el defensor romano: "
+
+# "Galic defender troops dead: "
+134588160="Defensores galos muertos: "
+
+# "Material lost by Galic reinforcement: "
+113699456="Total materias primas perdidas por el defensor galo: "
+
+# "Teuton defender troops dead: "
+51360656="Defensores germanos muertos: "
+
+# "Material lost by Teuton reinforcement: "
+190114080="Total materias primas perdidas por el defensor germano: "
+
+# "Travian Battle Simulator"
+238672034="Simulador de Batallas de Travian"
+
+# "Made by Andres_age and released under the GPL"
+168002716="Realizado por Andres_age y liberado bajo licencia GPL"
+
+# "Return"
+93109390="Volver"
+
+# "Soldiers killed in  "
+138279984="Total de soldados muertos en ambos bandos en "
+
+# "this bloody, vile and cruel battle"
+211395349="this bloody, vile and cruel battle"
+
+# "this miserable battle"
+173560629="esta cutrez de batalla"
+
+# "this joking battle"
+260553925="esta batalla de risa"
+
+# "this little battle"
+2887205="esta batallita"
+
+# "this great battle"
+1766165="esta pedazo de batalla"
+
+# "this bloody battle "
+20864528="esta batalla sangrienta "
+
+# "this battle made by selfish and vain reasons"
+39158499="esta batalla motivada por motivos egoistas y megalómanos"
+
+# "this slaugther"
+129749314="esta carnicería"
+
+# "this battle that has left thousands of destroyed families"
+3675939="esta batalla que ha dejado miles de familias destrozadas"
+
+# "this shameful day in the human history, where thousands of men killed each other for the selfish desires of a few mad governors"
+244197923="este vergonzoso dia para la humanidad, donde miles de hombres se han matado mutuamente por los deseos de un par de locos gobernantes"
+
+# "the greatest battle that Travian villagers remember"
+122191378="la mayor batalla que los viejos aldeanos de Travian recuerdan"
+
+# "Material lost by both agressor and defender: "
+216355872="Total materias primas perdidas por ambos bandos en esta batalla: "
+
+# "Confirmation"
+228516702="Confirmación"
+
+# "Report correctly created in "
+247769760="Informe creado correctamente en "
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Soldiers and animals killed in "
+78731456="Soldados y animales muertos en "
+
+# "Wild animals guarding the oases"
+81157859="Animales salvajes custodiando el oasis"
+
+# "Poor baby animals cruelly killed: "
+90022864="Cachorritos y animalicos cruelmente asesinados: "
+
+# "Error creating report"
+90346516="Error creando el informe"
+
+# "Type of attack: "
+215472160="Tipo de ataque: "
+
+# "Note"
+349861="Nota"
+
+# ": In the making of this report, no kitten was harmed."
+32209342=": En la realización de este informe, ningún gatito resulto herido."
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+
+# "Attacker crop consumption"
+248593102="Consumo de cereal del atacante"
+
+# "Defender crop consumption"
+13887598="Consumo de cereal de los defensores"
+

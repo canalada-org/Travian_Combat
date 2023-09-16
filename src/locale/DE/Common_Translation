@@ -1,0 +1,248 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/DE/Common_Translation'
+# Language: 'DE'
+
+# "Romans"
+93730899="Römer"
+
+# "Gauls"
+5082163="Gallier"
+
+# "Teutons"
+181188099="Germanen"
+
+# "Agressor"
+244100626="Angreifer"
+
+# "Level"
+5426364="Stufe"
+
+# "Troops"
+96036467="Truppen"
+
+# "Population"
+204331566="Einwohner"
+
+# "Defender"
+197938786="Verteidiger"
+
+# "Losses"
+87468483="Verluste"
+
+# "Material lost"
+74317316="Verlorene Rohstoffe"
+
+# "Agressor town"
+28277822="Ang. Dorf"
+
+# "Defender town"
+117142078="Vert. Dorf"
+
+# "Target"
+94932420="Ziel"
+
+# "X:"
+1466="X:"
+
+# "Y:"
+1482="Y:"
+
+# "Time:"
+5964682="Zeit:"
+
+# "Attack"
+76261275="Angriff"
+
+# "Raid"
+362484="Raubzug"
+
+# "SA:"
+22346="SA:"
+
+# "Artifact"
+162513700="Artefakt"
+
+# "Tourn. square"
+214182357="Turnierplatz"
+
+# "TS:"
+22890="TP:"
+
+# "Roman wall"
+134365724=" Stadtmauer"
+
+# "Teuton wall"
+106765468="   Erdwall"
+
+# "Galic wall"
+257101836="    Palisade"
+
+# "Palace"
+90711957="Palast/Resid."
+
+# "Catapult"
+145260708="Katapult"
+
+# "Settler"
+164344466="Siedler"
+
+# "Legionnaire"
+103210629="Legionär"
+
+# "Praetorian"
+213120782="Prätorianer"
+
+# "Imperian"
+74222206="Imperianer"
+
+# "Legati"
+86759593="Equites Legati"
+
+# "Imperatoris"
+148582339="Equites Imperatoris"
+
+# "Caesaris"
+130649491="Equites Caesaris"
+
+# "Battering ram"
+146986173="Rammbock"
+
+# "Senator"
+163875634="Senator"
+
+# "Phalanx"
+115877896="Phalanx"
+
+# "Swordsman"
+109828510="Schwertkämpfer"
+
+# "Pathfinder"
+248193634="Späher"
+
+# "Theutates Thunder"
+2909010="Theutates Blitz"
+
+# "Druidrider"
+263996274="Druidenreiter"
+
+# "Haeduan"
+242989886="Haeduaner"
+
+# "Ram"
+22653="Rammholz"
+
+# "Trebuchet"
+194757956="Kriegskatapult"
+
+# "Clubswinger"
+177632850="Keulenschwinger"
+
+# "Spearfighter"
+156975682="Speerkämpfer"
+
+# "Axefighter"
+217674866="Axtkämpfer"
+
+# "Scout"
+5875396="Kundschafter"
+
+# "Paladin"
+109214382="Paladin"
+
+# "Teuton Knight"
+266881956="Teutonen Reiter"
+
+# "Chief"
+4845494="Stammesführer"
+
+# "Chieftain"
+264105502="Häuptling"
+
+# "January"
+8763593="Januar"
+
+# "February"
+194624601="Februar"
+
+# "March"
+5474456="März"
+
+# "April"
+4749564="April"
+
+# "May"
+21385="Mai"
+
+# "June"
+334917="Juni"
+
+# "July"
+334905="Juli"
+
+# "August"
+76278948="August"
+
+# "September"
+128737538="September"
+
+# "October"
+95115410="Oktober"
+
+# "November"
+114048402="November"
+
+# "December"
+194788450="Dezember"
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Rat"
+22660="Ratte"
+
+# "Spider"
+94829250="Spinne"
+
+# "Serpent"
+164195332="Schlange"
+
+# "Bat"
+18564="Fledermaus"
+
+# "Wild boar"
+40299394="Wildschwein"
+
+# "Wolf"
+386598="Wolf"
+
+# "Bear"
+297858="Bär"
+
+# "Crocodile"
+94758581="Krokodil"
+
+# "Tiger"
+5963202="Tiger"
+
+# "Elephant"
+46589076="Elefant"
+
+# "Travian v2"
+217300754="Travian v2"
+
+# "Travian v3"
+217300755="Travian v3"
+
+# "V2"
+1426="V2"
+
+# "V3"
+1427="V3"
+
+# "V2\/V3"
+5854355="V2\/V3"
+

@@ -1,0 +1,192 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/DE/GUI_Translation'
+# Language: 'DE'
+
+
+# "Travian Combat Simulator - TC"
+45840931="Travian Kampfsimulator - TC "
+
+# "Made by Andres_age under the GPL"
+35228428="Erstellt von Andres_age unter der GPL"
+
+# "&File"
+2805797="&Datei"
+
+# "&Report"
+193754804="Bericht"
+
+# "&Calculator"
+178787138="&Rechner"
+
+# "Hel&p"
+5160656="&Hilfe"
+
+# "&Exit"
+2805508="&Beenden"
+
+# "&Instructions"
+11497443="&Anweisungen"
+
+# "&About"
+44537540="&About"
+
+# "&Tools"
+45835827="&Tools"
+
+# "Resources calculator - TC"
+99080355="Rohstoff-Rechner - TC "
+
+# "Stored resources"
+48192099="Gelagerte Rohstoffe"
+
+# "Wanted resources"
+81733971="Gewünschte Rohstoffe"
+
+# "Production"
+197121806="Produktion"
+
+# "Enough resources in "
+73850416="Genug Rohstoffe in "
+
+# "Impossible or too slow"
+97335911="Unmöglich oder zu langsam"
+
+# "You can already build"
+171452820="Sie können bereits bauen"
+
+# "Available: "
+36823232="Verfügbar: "
+
+# "Today at "
+176894768="Heute um "
+
+# "Remainings"
+134318291="Verbleibende Rohstoffe"
+
+# "report.txt"
+110286724="bericht.txt"
+
+# "Clean"
+4860798="Löschen"
+
+# "Clean production"
+62485950="Produktion löschen"
+
+# "Production to 1000"
+113531120="Produktion auf 1000"
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "&Options"
+108726499="&Optionen"
+
+# "&Nature (v3)\/Troops"
+148934483="&Natur (v3)\/Truppen"
+
+# "(Plain Text)"
+42854249="(&Plain Text)"
+
+# "(BBCode)"
+107632825="(&BBCode)"
+
+# "(HTML)"
+47026665="(&HTML)"
+
+# "report_BBCode.txt"
+207485428="bericht_BBCode.txt"
+
+# "report_HTML.txt"
+7905492="bericht_HTML.txt"
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+# "Resource and Culture Calculator - TC "
+62998624="Rohstoff- und Kulturpunkterechner - TC "
+
+# "You have already enough culture"
+247659781="Sie haben genug Kulturpunkte"
+
+# "Resources"
+174903555="Rohstoffe"
+
+# "Culture"
+180600005="Kulturpunkte"
+
+# "Data"
+305313="Daten"
+
+# "Error: Invalid data"
+119147265="Fehler: fehlerhafte Eingabe"
+
+# "Town Halls per level"
+29880748="Rathäuser pro Stufe"
+
+# "Number of villages"
+259769027="Anzahl Dörfer"
+
+# "Village"
+218310533="Dorf"
+
+# "CP needed"
+122417812="Benötigte KP"
+
+# "Actual CP"
+196584224="Momentane KP"
+
+# "Daily CP production"
+152955918="KP Produktion"
+
+# "Quicksave"
+262324341="&Schnellspeichern"
+
+# "Quickload"
+262311364="Schnel&lladen"
+
+# "Error: Saved file not found. Make sure to save before loading!"
+198278401="Fehler: Gespeicherte Datei nicht gefunden. Stellen sie sicher, dass sie gespeichert haben bevor sie versuchen zu laden!"
+
+# "Error: Saved file is corrupt or you are using another version of Travian Combat that is not compatible with the previous one. "
+94357024="Fehler: Gespeicherte Datei ist defekt oder sie benutzen eine andere Version von Travian Combat die nicht kompatibel zur früheren ist. "
+
+# "The version of Travian Combat you are using is "
+27156384="Die Version von Travian Combat die sie benutzen ist "
+
+# " and the saved file was created with "
+136262672=" und die gespeicherte Datei wurde erstellt mit "
+
+# "Set Template"
+266030341="Als Standard setzen"
+
+# ".sdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Simulator Data File"
+219558=".sdf"
+
+# ".rdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Resources and culture Data File"
+219302=".rdf"
+
+# ".cdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Coordinator Data File"
+215462=".cdf"
+
+# "config\/Quicksave"
+# DONT CHANGE THIS LINE!!
+44201525="config\/Quicksave"
+
+# "config\/Template"
+# DONT CHANGE THIS LINE!!
+9905781="config\/Template"
+
+

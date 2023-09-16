@@ -1,0 +1,250 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/FR/Common_Translation'
+# Language: 'FR'
+# Translated by Fenrirsan
+
+# "Romans"
+93730899="Romains"
+
+# "Gauls"
+5082163="Gaulois"
+
+# "Teutons"
+181188099="Teutons"
+
+# "Agressor"
+244100626="Attaquant"
+
+# "Level"
+5426364="Niveau"
+
+# "Troops"
+96036467="Troupes"
+
+# "Population"
+204331566="Population"
+
+# "Defender"
+197938786="Défenseur"
+
+# "Losses"
+87468483="Pertes"
+
+# "Material lost"
+74317316="Ressources perdues"
+
+# "Agressor town"
+28277822="Village attaquant"
+
+# "Defender town"
+117142078="Village défendu"
+
+# "Target"
+94932420="Cible"
+
+# "X:"
+1466="X:"
+
+# "Y:"
+1482="Y:"
+
+# "Time:"
+5964682="Temps:"
+
+# "Attack"
+76261275="Attaque"
+
+# "Raid"
+362484="Raid"
+
+# "SA:"
+22346="AV:"
+
+# "Artifact"
+162513700="Artefact"
+
+# "Tourn. square"
+214182357="Pl. de tournois"
+
+# "TS:"
+22890="PT:"
+
+# "Roman wall"
+134365724="Mur Romain"
+
+# "Teuton wall"
+106765468="Mur Teuton"
+
+# "Galic wall"
+257101836="Mur Gaulois"
+
+# "Palace"
+90711957="Palais / Résid."
+
+# "Catapult"
+145260708="Catapulte"
+
+# "Settler"
+164344466="Colon"
+
+# "Legionnaire"
+103210629="Légionnaire"
+
+# "Praetorian"
+213120782="Prétorien"
+
+# "Imperian"
+74222206="Imperian"
+
+# "Legati"
+86759593="Equites Legati"
+
+# "Imperatoris"
+148582339="Equites Imperatoris"
+
+# "Caesaris"
+130649491="Equites Caesaris"
+
+# "Battering ram"
+146986173="Bélier"
+
+# "Senator"
+163875634="Sénateur"
+
+# "Phalanx"
+115877896="Phalange"
+
+# "Swordsman"
+109828510="Combattant à l'épée"
+
+# "Pathfinder"
+248193634="Avant-Garde"
+
+# "Theutates Thunder"
+2909010="Éclair de Toutatis"
+
+# "Druidrider"
+263996274="Cavalier druide"
+
+# "Haeduan"
+242989886="Hédouin"
+
+# "Ram"
+22653="Bélier"
+
+# "Trebuchet"
+194757956="Catapulte de guerre"
+
+# "Clubswinger"
+177632850="Combattant au gourdin"
+
+# "Spearfighter"
+156975682="Combattant à la lance"
+
+# "Axefighter"
+217674866="Combattant à la hache"
+
+# "Scout"
+5875396="Éclaireur"
+
+# "Paladin"
+109214382="Paladin"
+
+# "Teuton Knight"
+266881956="Cavalier Teuton"
+
+# "Chief"
+4845494="Chef"
+
+# "Chieftain"
+264105502="Chef de tribu"
+
+# "January"
+8763593="Janvier"
+
+# "February"
+194624601="Février"
+
+# "March"
+5474456="Mars"
+
+# "April"
+4749564="Avril"
+
+# "May"
+21385="Mai"
+
+# "June"
+334917="Juin"
+
+# "July"
+334905="Juillet"
+
+# "August"
+76278948="Août"
+
+# "September"
+128737538="Septembre"
+
+# "October"
+95115410="Octobre"
+
+# "November"
+114048402="Novembre"
+
+# "December"
+194788450="Décembre"
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "Rat"
+22660="Rat"
+
+# "Spider"
+94829250="Araignée"
+
+# "Serpent"
+164195332="Serpent"
+
+# "Bat"
+18564="Chauve-souris"
+
+# "Wild boar"
+40299394="Sanglier"
+
+# "Wolf"
+386598="Loup"
+
+# "Bear"
+297858="Ours"
+
+# "Crocodile"
+94758581="Crocodile"
+
+# "Tiger"
+5963202="Tigre"
+
+# "Elephant"
+46589076="Éléphant"
+
+# "Travian v2"
+217300754="Travian v2"
+
+# "Travian v3"
+217300755="Travian v3"
+
+# "V2"
+1426="V2"
+
+# "V3"
+1427="V3"
+
+# "V2\/V3"
+5854355="V2\/V3"
+

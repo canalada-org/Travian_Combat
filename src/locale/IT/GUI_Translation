@@ -1,0 +1,191 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/IT/GUI_Translation'
+# Language: 'IT'
+# Special thanks to Gas for helping in the translation
+
+
+# "Travian Combat Simulator - TC"
+45840931="Travian Combat Simulator - TC "
+
+# "Made by Andres_age under the GPL"
+35228428="Creato da Andres_age sotto licenza GPL, e tradotto in ITA da Gas e Lucas_Malor."
+
+# "&File"
+2805797="&File"
+
+# "&Report"
+193754804="Genera Report"
+
+# "&Calculator"
+178787138="&Calcolatore"
+
+# "Hel&p"
+5160656="Hel&p"
+
+# "&Exit"
+2805508="&Esci"
+
+# "&Instructions"
+11497443="&Istruzioni"
+
+# "&About"
+44537540="Informazioni su &Travian Combat"
+
+# "&Tools"
+45835827="&Strumenti"
+
+# "Resources calculator - TC"
+99080355="Calcolatore Risorse - TC "
+
+# "Stored resources"
+48192099="Risorse immagazzinate"
+
+# "Wanted resources"
+81733971="Risorse richieste"
+
+# "Production"
+197121806="Produzione"
+
+# "Enough resources in "
+73850416="Risorse disponibili tra "
+
+# "Impossible or too slow"
+97335911="Impossibile o troppo lento"
+
+# "You can already build"
+171452820="Puoi già costruire"
+
+# "Available: "
+36823232=" Disponibile: "
+
+# "Today at "
+176894768="Oggi a "
+
+# "Remainings"
+134318291="Risorse rimanenti"
+
+# "report.txt"
+110286724="report_simulatore.txt"
+
+# "Clean"
+4860798="Azzera"
+
+# "Clean production"
+62485950="Resetta produzione"
+
+# "Production to 1000"
+113531120="Produzione a 1000"
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "&Nature (v3)\/Troops"
+148934483="&Animali difensori (v3)"
+
+# "(Plain Text)"
+42854249="(&Testo semplice)"
+
+# "(BBCode)"
+107632825="(&BBCode)"
+
+# "(HTML)"
+47026665="(&HTML)"
+
+# "report_BBCode.txt"
+207485428="report_simulatore_BBCode.txt"
+
+# "report_HTML.txt"
+7905492="report_simulatore_HTML.txt"
+
+# "&Options"
+108726499="&Opzioni"
+
+
+#################
+# Strings added in v0.90 #
+#################
+
+# "Resource and Culture Calculator - TC "
+62998624="Calcolatore di risorse e punti cultura - TC "
+
+# "You have already enough culture"
+247659781="Hai già abbastanza punti cultura"
+
+# "Resources"
+174903555="Risorse"
+
+# "Culture"
+180600005="Punti cultura (PC)"
+
+# "Data"
+305313="Dati"
+
+# "Town Halls per level"
+29880748="N° di Municipi di livello:"
+
+# "Number of villages"
+259769027="Numero di villaggi"
+
+# "Village"
+218310533="Villaggio"
+
+# "CP needed"
+122417812="   PC necessari"
+
+# "Actual CP"
+196584224="PC attuali"
+
+# "Daily CP production"
+152955918="PC prodotti al giorno"
+
+# "Quicksave"
+262324341="&Salvataggio rapido"
+
+# "Quickload"
+262311364="&Caricamento rapido"
+
+# "Error: Invalid data"
+119147265="Errore: dati non validi"
+
+# "Error: Saved file not found. Make sure to save before loading!"
+198278401="Errore: file non trovato. Ricordati di salvare prima di caricare i file!"
+
+# "Error: Saved file is corrupt or you are using another version of Travian Combat that is not compatible with the previous one. "
+94357024="Errore: il file è corrotto opppure stai cercando di caricare un file creato con un'altra versione del Travian Combat, non compatibile con quella che stai utilizzando ora. "
+
+# "The version of Travian Combat you are using is "
+27156384="La versione del Travian Combat che stai utilizzando è la "
+
+# " and the saved file was created with "
+136262672=" e il file è stato creato con "
+
+# "Set Template"
+266030341="Imposta come &default"
+
+# ".sdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Simulator Data File"
+219558=".sdf"
+
+# ".rdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Resources and culture Data File"
+219302=".rdf"
+
+# ".cdf"
+# DONT CHANGE THIS LINE!!
+# This is the extension for the "Coordinator Data File"
+215462=".cdf"
+
+# "config\/Quicksave"
+# DONT CHANGE THIS LINE!!
+44201525="config\/Quicksave"
+
+# "config\/Template"
+# DONT CHANGE THIS LINE!!
+9905781="config\/Template"
+

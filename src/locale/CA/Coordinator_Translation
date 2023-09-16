@@ -1,0 +1,128 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/CA/Coordinator_Translation'
+# Language: 'CA'
+
+# Traduït per Ildure
+
+# "Attack Coordinator - TC  "
+117260880="Coordinador d'atacs - TC  "
+
+# "Time:"
+5964682="Hora:"
+
+# "Date:"
+4885130="Data:"
+
+# "-"
+45="-"
+
+# ":"
+58=":"
+
+# "Name:"
+5538698="Nom:"
+
+# "coordination_report.txt"
+104807156="informe_coordinacio.txt"
+
+# "Complet &report"
+167705300="Informe &Complet"
+
+# "&Add to report"
+2764580="Afegir a l'&Informe"
+
+# "Today"
+5986953="Avui"
+
+# "Night"
+5570036="Matinada"
+
+# "Copy arrival"
+205485852="Copiar arribada"
+
+# "Copy coordinates"
+28019251="Copiar coordenades"
+
+# "Clean all"
+192949772="Netejar tot"
+
+# "Clean towns"
+3229651="Netejar viles"
+
+# "Clean arrival"
+45386844="Netejar arribada"
+
+# "Clean troops"
+52166259="Netejar tropes"
+
+# "Attackers '  tribe           Attack troops type"
+126125621="Vila de l'atacant         Tipus de tropes d'atac"
+
+# "Coordinates                  Square Tournament           Speed Artifact"
+107486132="Coordenades                  Plaça de Tornejos              Artefacte de Velocitat"
+
+# "Arrival to target              Time-> HH:MM:SS            Date-> DD-MM-YYYY"
+95028985="Hora d'arribada a l'objetiu      Hora-> HH:MM:SS           data-> DD-MM-AAAA"
+
+# "Departure                         Time-> HH:MM:SS            Date-> DD-MM-YYYY"
+121086409="Hora d'enviament de tropes    Hora-> HH:MM:SS           data-> DD-MM-AAAA"
+
+# "Coordination report created with"
+199171576="Informe de coordinació creat amb el "
+
+# "Target: ("
+148645544="Objetiu: ("
+
+# "Troops: "
+157709168="Tropes: "
+
+# "Square Tournament at level "
+37472896="Plaça de tornejos a nivell "
+
+# "Departure time:   "
+22863120="Hora de sortida:   "
+
+# "Arrival time:     "
+195846864="Hora d'arribada:     "
+
+# "; Speed Artifact"
+253195908="; Artefacte de velocitat"
+
+# "Confirmation"
+228516702="Confirmació"
+
+# "Report correctly created in: "
+206220064="Informe creat correctament en: "
+
+# "Report correctly added to: "
+153119920="Informe afegit correctament en: "
+
+# "Error"
+5020002="Error"
+
+# "Error creating report"
+90346516="Error creant informe"
+
+# "Travian Attack Coordinator"
+197892546="Coordinador d'atacs de Travian"
+
+# "Made by Andres_age and released under the GPL"
+168002716="Realizat per Andres_age i alliberat sota llicència GPL     "
+
+# "Return"
+93109390="Tornar"
+
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "coordination_report_BBCode.txt"
+109260020="informe_coordinacio_BBCode.txt"
+
+# "coordination_report_HTML.txt"
+159284788="informe_coordinacio_HTML.txt"
+

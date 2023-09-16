@@ -1,0 +1,127 @@
+# Internationalization File Created with AdaIntl v0.1alpha
+# AdaIntl v0.1alpha is an internationalizing tool for Ada95 programs created by Andres_age
+# More info at www.canalada.org
+
+# File: 'Locale/FR/Coordinator_Translation'
+# Language: 'FR'
+# Translated by Fenrirsan
+
+# "Attack Coordinator - TC  "
+117260880="Coordinateur d'Attaque - TC  "
+
+# "Time:"
+5964682="Temps:"
+
+# "Date:"
+4885130="Date:"
+
+# "-"
+45="-"
+
+# ":"
+58=":"
+
+# "Name:"
+5538698="Nom:"
+
+# "coordination_report.txt"
+104807156="Rapport de coordination.txt"
+
+# "Complet &report"
+167705300="Rapport complet"
+
+# "&Add to report"
+2764580="Ajouté au rapport"
+
+# "Today"
+5986953="Aujourd'hui"
+
+# "Night"
+5570036="Nuit"
+
+# "Copy arrival"
+205485852="Copier les arrivées"
+
+# "Copy coordinates"
+28019251="Copier coordonnées"
+
+# "Clean all"
+192949772="Effacer Tout"
+
+# "Clean towns"
+3229651="Effacer Village"
+
+# "Clean arrival"
+45386844="Effacer Arrivée"
+
+# "Clean troops"
+52166259="Effacer Troupes"
+
+# "Attackers '  tribe           Attack troops type" 
+126125621="Tribue d'Attaquants      Type de troupes"
+
+# "Coordinates                  Square Tournament           Speed Artifact"
+107486132="Coordonnées                  Place de Tournois          Artefact de Vitesse"
+
+# "Arrival to target              Time-> HH:MM:SS            Date-> DD-MM-YYYY"
+95028985="Arrivée sur la cible              Temps-> HH:MM:SS            Date-> DD-MM-YYYY"
+
+# "Departure                         Time-> HH:MM:SS            Date-> DD-MM-YYYY"
+121086409="Départ                                    Temps-> HH:MM:SS            Date-> DD-MM-YYYY"
+
+
+# "Coordination report created with"
+199171576="Rapport de Coordination crée avec "
+
+# "Target: ("
+148645544="Cible: ("
+
+# "Troops: "
+157709168="Troupes: "
+
+# "Square Tournament at level "
+37472896="Niveau de la place de Tournois "
+
+# "Departure time:   "
+22863120="Heure de Départ:   "
+
+# "Arrival time:     "
+195846864="Heure d'Arrivée:     "
+
+# "; Speed Artifact"
+253195908="; Artefact de Vitesse"
+
+# "Confirmation"
+228516702="Confirmation"
+
+# "Report correctly created in: "
+206220064="Rapport créé correctement dans: "
+
+# "Report correctly added to: "
+153119920="Rapport ajouté correctement au: "
+
+# "Error"
+5020002="Erreur"
+
+# "Error creating report"
+90346516="Erreur de création du rapport"
+
+# "Travian Attack Coordinator"
+197892546="Coordinateur d'attaque Travian"
+
+# "Made by Andres_age and released under the GPL"
+168002716="Créé par Andres_age  et réalisé sous le GPL"
+
+# "Return"
+93109390="Retour"
+
+#################
+# Strings added in v0.89 #
+#################
+
+# "coordination_report_BBCode.txt"
+109260020="rapport_coordination_BBCode.txt"
+
+# "coordination_report_HTML.txt"
+159284788="rapport_coordination_HTML.txt"
+

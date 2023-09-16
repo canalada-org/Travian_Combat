@@ -1,0 +1,61 @@
+Do you want to translate Travian Combat to other languages? Cool.
+Before v0.8 Travian Combat couldn't be translated easily: you had to modify the source code!
+After v0.8 an internationalization tool was added to Travian Combat.
+So all the strings used in TC are read from files. If you modify that files, you will modify the text strings you read in TC!
+
+First, let's see which languages are available. You can use any of the ISO 639-1 languages:
+http://www.loc.gov/standards/iso639-2/englangn.html
+
+Do you see the fourth column? These are the codes you can use. For example, if you want to translate Travian Combat to French, you would use the code "FR"; if you want to translate Travian Combat to Estonian you would use the code "ET". Keep that code in mind!
+
+You will see that the "locale" directory has got some other directories: ES, IT and EN (maybe others). These are the languages supported by default, but maybe there will be more directories. The name of each directory is the code of the language. Each directory has got the files with the translations for the language indicated by its code. 
+The ES directory will contain the files for translating TC into Spanish, the IT directory will contain the Italian translation, etc.
+
+If you open any of these directories, you will see some files without extension. Each files has got strings in the language indicated.
+
+Let's translate some. Let's suppose you want to translate it to Catalan (CA).
+First, you have to create a copy of the the directory "EN" and rename it as "CA". This is the directory we will translate. Don't overwrite the files of "EN" or you will eliminate these translations! You don't want to do that, you want to ADD another language!
+
+Now you have got a new directory called "CA". Open it.
+You will see some files. Open any of it with notepad or any text-editor. 
+
+Each translation file has the following structure:
+A line with:
+ #: Comments. Each line starting with # will be considered a comment. You can have as many comments as you want. 
+AND:
+ Number="String" (for example, 809103="Hello").
+
+These lasts are the strings you have to translate. Don't translate the comments, they are not used in Travian Combat. Translate the strings after the numbers!
+That numbers are identifiers, so DON'T MODIFY THEM! This is very important: don't modify the numbers! Just translate the string between "" to your language. Don't forget to open and close each translation with "
+
+For example if you have got:
+
+# "Agressor town"
+28277822="Agressor town"
+
+The translation you can do is:
+
+# "Agressor town"
+28277822="Poble de l'atacant"
+
+See? We haven't modify the number, and we have only translated the string between the "".
+The comment line is not modified to help translators to do a better job ;)
+
+If you make some errors, maybe Travian Combat will be displayed in English. For example if you do that (last " lacks):
+
+# "Agressor town"
+28277822="Poble de l'atacant
+
+This will create an internal error. This version of Travian Combat has no debug, so it will say no errors and it will display the default language (English) if translation fails. So be careful!
+
+Translate all files in the "CA" directory. Once you have done it, return to the default directory where the .exe's are.
+You will see a "Language.dat" file. If not, execute any .exe and it will be created.
+Now open that file with notepad or any text-editor. It has comments (#) and two lines:
+Language and Language_Name. In "Language_Name" you can put whatever you want (but you ought to put the name of the language :p). The important line is "Language".
+Here you have to put the code of the language, for example "CA".
+Save the file, and exit.
+Now you can test your translation executing any .exe
+Works? Cool! Doesn't work? Maybe you have done some errors translating ;)
+
+If you translate Travian Combat and want to share it, please send me the files translated and zipped to my email (you can see it in the credits of Travian Combat). I will add your translation to next version of Travian Combat (and you will appear in the credits) :D
+Thanks!
