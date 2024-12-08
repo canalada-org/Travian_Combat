@@ -1,45 +1,49 @@
 # Codigo fuente de Travian Combat v0.90
 
-El cÛdigo fuente est· listo para ser compilado con GNAT o cualquier otro compilador de Ada95.
-La versiÛn gr·fica de Travian Combat usa las librerÌas JEWL, asÌ que puede ser necesario usar GNAT-WIN para su correcto linkado.
-TambiÈn usa la librerÌa AdaIntl para internacionalizaciÛn.
+El c√≥digo fuente est√° listo para ser compilado con GNAT o cualquier otro compilador de Ada95.
+La versi√≥n gr√°fica de Travian Combat usa las librer√≠as [JEWL](http://archive.adaic.com/tools/bindings/JEWL/jewl.html 
+), as√≠ que puede ser necesario usar GNAT-WIN para su correcto linkado.
+Tambi√©n usa la librer√≠a AdaIntl para internacionalizaci√≥n.
 Los iconos se crearon con rcl.exe
 
 Para compilar el simulador:
-- Abrir Adagide o ejecutar gnatmake con el archivo "simulador.adb"
+- Abrir Adagide o ejecutar gnatmake con el archivo `simulador.adb`
 
 Para compilar el coordinador:
-- Abrir Adagide o ejecutar gnatmake con el archivo "coordinador.adb"
+- Abrir Adagide o ejecutar gnatmake con el archivo `coordinador.adb`
 
 Para compilar la calculadora:
-- Abrir Adagide o ejecutar gnatmake con el archivo "calculadora.adb"
+- Abrir Adagide o ejecutar gnatmake con el archivo `calculadora.adb`
 
 Aunque es posible ejecutar Travian Combat con Wine (0.9.8 en adelante), 
-las librerÌas JEWL no compilan bajo Linux, lo siento :(
+las librer√≠as JEWL no compilan bajo Linux, lo siento :(
 
-Sin embargo, se puede ver un ejemplo del simulador en consola en "prueba.adb".
-TambiÈn es posible obtener GTKJewl y compilarlo con esa librerÌa (funciona en Linux), 
+Sin embargo, se puede ver un ejemplo del simulador en consola en `prueba.adb`.
+Tambi√©n es posible obtener [GTKJewl](https://webs-deim.urv.cat/~sergio.gomez/ada/simpleguis.php) y compilarlo con esa librer√≠a (funciona en Linux), 
 aunque el resultado deja bastante que desear.
-Dado que la GUI est· separada de las fÛrmulas, se puede hacer una GUI en otra librerÌa como GtkAda (o hacer una en modo consola)
+Dado que la GUI est√° separada de las f√≥rmulas, se puede hacer una GUI en otra librer√≠a como GtkAda (o hacer una en modo consola).
 
 
 ## Archivos
-* `traduccion` -> Archivos de traducciÛn generales, contiene los strings usados
-* `traduccion_gui` -> Strings con detalles especÌficos del simulador y la calculadora
-* `traduccion_coordinador` -> Strings con detalles especÌficos del coordinador de ataques
-* `formulas` -> Contiene las fÛrmulas b·sicas usadas en TC, adem·s de funciones para el  fomateo de texto
-* `operaciones` -> Funciones y procedimientos m·s abstractos un nivel por encima de las fÛrmulas b·sicas
+* `traduccion` -> Archivos de traducci√≥n generales, contiene los strings usados
+* `traduccion_gui` -> Strings con detalles espec√≠ficos del simulador y la calculadora
+* `traduccion_coordinador` -> Strings con detalles espec√≠ficos del coordinador de ataques
+* `formulas` -> Contiene las f√≥rmulas b√°sicas usadas en TC, adem√°s de funciones para el  fomateo de texto
+* `operaciones` -> Funciones y procedimientos m√°s abstractos un nivel por encima de las f√≥rmulas b√°sicas
 * `BBCode_HTML` -> Paquete que permite hacer informes en texto plano, bbcode o html
 * `simulador` -> El simulador de combate
 * `calculadora` -> La calculadora de recursos
 * `coordinador` -> El coordinador de ataques
 
-Los archivos .o son los iconos pasados a objetos (para que el ejecutable sea m·s "bonito").
+Los archivos .o son los iconos pasados a objetos (para que el ejecutable sea m√°s "bonito").
 
 ## No incluido
-* Jewl -> La librerÌa gr·fica
-http://archive.adaic.com/tools/bindings/JEWL/jewl.html
-https://deim.urv.cat/~sergio.gomez/ada/simpleguis.php
+* Jewl -> La librer√≠a gr√°fica
 
-* AdaIntl -> La librerÌa de internacionalizaciÛn (incluye otros paquetes como aa_tree_package, etc)
-https://github.com/canalada-org/AdaIntl
+  http://archive.adaic.com/tools/bindings/JEWL/jewl.html
+
+  https://webs-deim.urv.cat/~sergio.gomez/ada/simpleguis.php 
+
+* AdaIntl -> La librer√≠a de internacionalizaci√≥n (incluye otros paquetes como `aa_tree_package`, etc)
+
+  https://github.com/canalada-org/AdaIntl
